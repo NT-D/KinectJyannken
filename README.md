@@ -38,7 +38,7 @@ KinectJyannken Online は3つの要素を学びながら、Kinectで遊べるサ
 3. Visual Studio の画面が表示されます。
 4. 画面右側の[ソリューションエクスプローラー]ウィンドウで"MainPage.xaml.cs"ファイルをダブルクリックします。
 5. 画面中央のコーディング画面で、140行目を確認します。行番号が表示されていない方は、[こちら](https://msdn.microsoft.com/ja-jp/library/ms165340.aspx)の情報を参照してください。
-6. "var hubConnection = new HubConnection("通信先のURLを入力してください。");"というコードがあるため、[Azure Web Apps へのプロジェクトの発行]でメモした URL を使い、"var hubConnection = new HubConnection("http://kinectcamptest.azurewebsites.net/");"のように書き換えます。
+6. "var hubConnection = new HubConnection("通信先のURLを入力してください。");"というコードがあるため、[Azure Web Apps へのプロジェクトの発行]でメモした URL を使い、"var hubConnection = new HubConnection("http://kinectcamptest.azurewebsites.net/");" のように書き換えます。
 7. [F5]キーを押して、アプリケーションを起動させます。
 8. Kinectの前でグー、チョキ、パーをすると、[Azure Web Apps へのプロジェクトの発行]でブラウザで表示されたページに"グー","チョキ","パー"と表示されます。
 
