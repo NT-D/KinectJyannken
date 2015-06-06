@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\windowspreview.kinect\2.0\references\commonconfiguration\neutral\windowspreview.data.winmd" HashGuid="bec3b354-5b74-1234-191f-25a435755c0a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\windowspreview.kinect\2.0\references\commonconfiguration\neutral\windowspreview.kinect.winmd" HashGuid="d7412096-a3c7-9108-a946-0ff0cc614d3f" />
+    <ReferenceAssembly PathName="c:\users\masot_000\documents\github\kinectjyannken\step3\kinectjyannkenonline_client\packages\microsoft.aspnet.signalr.client.2.2.0\lib\portable-win81+wpa81\microsoft.aspnet.signalr.client.dll" HashGuid="122fd8fc-0022-0dd0-2020-cd60e5b50849" />
+    <ReferenceAssembly PathName="c:\users\masot_000\documents\github\kinectjyannken\step3\kinectjyannkenonline_client\packages\microsoft.aspnet.signalr.client.2.2.0\lib\portable-win81+wpa81\microsoft.aspnet.signalr.client.store.dll" HashGuid="db15ee65-549a-89a1-7a28-15a9e99ac2e1" />
+    <ReferenceAssembly PathName="c:\users\masot_000\documents\github\kinectjyannken\step3\kinectjyannkenonline_client\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
+    <ReferenceAssembly PathName="c:\users\masot_000\documents\github\kinectjyannken\step3\kinectjyannkenonline_client\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\masot_000\documents\github\kinectjyannken\step3\kinectjyannkenonline_client\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
