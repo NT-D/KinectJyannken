@@ -67,7 +67,9 @@ Azure Web Apps に多くの人がアクセスした際にさばききれなく�
 coming soon
 
 ## Step2
-coming soon
+SignalRの実装は[こちら](http://www.asp.net/signalr/overview/getting-started/tutorial-getting-started-with-signalr)をベースに開発しています。
+なお、jquery, signalrのjsファイルのバージョンが異なるので、そのままコピペをするとエラーが発生します。
+そのため、バージョン情報やパス情報などは合わせるように注意してください。
 
 ## Step3
 coming soon
