@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MASA-WIN81</Machine>
+    <WindowsUser>masot_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>8b04ac1d-a7ba-451c-9882-10b2a5893975</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7E2526BFAFC8090AE1BB8CB643ADC45453D6714598A30AA669D93A14B8A189E9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8b04ac1d-a7ba-451c-9882-10b2a5893975_1.0.0.0_x64__34mhyvwew1048</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8b04ac1d-a7ba-451c-9882-10b2a5893975_34mhyvwew1048!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8b04ac1d-a7ba-451c-9882-10b2a5893975</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=masot_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-06T01:11:57.651</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\bin\x64\Debug\KinectJyannkenOnline_Client.exe">
+      <PackagePath>KinectJyannkenOnline_Client.exe</PackagePath>
+      <Modified>2015-06-06T01:30:15.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
+      <Modified>2015-06-06T00:42:11.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.Store.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.Store.dll</PackagePath>
+      <Modified>2015-06-06T00:42:11.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-06-06T00:42:09.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-06-06T00:42:11.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-06-06T00:42:11.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-30T23:01:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-30T23:01:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-30T23:01:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-30T23:01:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-06T01:11:56.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-06-06T01:11:56.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\bin\x64\Debug\KinectJyannkenOnline_Client.xr.xml">
+      <PackagePath>KinectJyannkenOnline_Client.xr.xml</PackagePath>
+      <Modified>2015-06-06T00:22:57.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\masot_000\Documents\Visual Studio 2013\Projects\KinectJyannkenOnline_Client\KinectJyannkenOnline_Client\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-06T01:30:16.139</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\">
+      <Name>Microsoft.WindowsPreview.Kinect.8.1</Name>
+      <Version>2.0.1410.19000</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsPreview.Kinect.8.1, MinVersion = 2.0.1410.19000</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\.\AppX\Debug\x64\WindowsPreview.Kinect_2.0_x64.appx</AppxLocation>
+      <MoreInfo>http://www.kinectforwindows.com</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\">
+      <Name>Microsoft.WindowsPreview.Kinect.8.1</Name>
+      <Version>2.0.1410.19000</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsPreview.Kinect.8.1, MinVersion = 2.0.1410.19000</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\.\AppX\Debug\x86\WindowsPreview.Kinect_2.0_Win32.appx</AppxLocation>
+      <MoreInfo>http://www.kinectforwindows.com</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
